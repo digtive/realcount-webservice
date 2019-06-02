@@ -1,15 +1,14 @@
 ###################
-digtive custom CI Foundation
+Realcount web service
 ###################
 
-code here is custom codeigniter structure by creative crew, build digital innovation, share everythings.
+build with Digtive CI custom-foundation
 
 
 *******************
-writen by bagussjm
+writen by bagussjm, ryandwijaya
 *******************
 
-CEO & Founder Digtive
 
 *********
 creative crew
